@@ -8,7 +8,7 @@ git pull: es un comando de Git que se utiliza para actualizar tu repositorio loc
 
 git checkout: es el comando que se utiliza para crear varias actividades relacionada con las ramas y commits
 
-git log:
+git log: es un comando que sirve para ver el registro de los commit realizados y ver el historial de cambios para mejor informacion
 
 git branch:
 
