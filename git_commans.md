@@ -14,8 +14,8 @@ git branch: es el comando que sirve para crear y administrar ramas en tu reposit
 
 git add:es el comando que se utiliza para guardar cambios en los archivos 
 
-git commit:
+git commit: se utiliza para registrar los cambios en el repositorio local y crear un nuevo commit
 
-git push:
+git push: sirve para subir los cambios de archivos al git hub
 
-git merge:
+git merge: es el comando que se usa para combinar los cambios de una rama a otra rama
