@@ -10,7 +10,7 @@ git checkout: es el comando que se utiliza para crear varias actividades relacio
 
 git log: es un comando que sirve para ver el registro de los commit realizados y ver el historial de cambios para mejor informacion
 
-git branch:
+git branch: es el comando que sirve para crear y administrar ramas en tu repositorio localh
 
 git add:
 
