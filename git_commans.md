@@ -12,7 +12,7 @@ git log: es un comando que sirve para ver el registro de los commit realizados y
 
 git branch: es el comando que sirve para crear y administrar ramas en tu repositorio localh
 
-git add:
+git add:es el comando que se utiliza para guardar cambios en los archivos 
 
 git commit:
 
